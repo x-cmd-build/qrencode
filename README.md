@@ -1,0 +1,1 @@
+qrencode static binary
